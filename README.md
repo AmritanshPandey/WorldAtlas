@@ -1,3 +1,3 @@
 # WorldAtlas
 
-WorldAtlas website created using Next,js
+A WorldAtlas website created using Next,js
