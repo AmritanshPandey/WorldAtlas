@@ -1,11 +1,26 @@
 .container {
+    padding: 24px;
+    height: 100vh;
 
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
-.main {
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+}
 
+.logo {
+    color: #21B6B7;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .footer {
-
+    text-align: center;
+    font-size: 0.75rem;
+    margin-top: 32px;
 }
